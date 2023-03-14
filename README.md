@@ -1,12 +1,14 @@
 # Mobile_Application_project!
 
-curl -L \
-  -X POST \
+# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method POST \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer <YOUR-TOKEN>"\
   -H "X-GitHub-Api-Version: 2022-11-28" \
-  https://api.github.com/markdown/raw \
-  -d '{"text":"Hello **world**"}'
+  /markdown \
+  -f text='Hello **world**' 
 
   Group name                           ID                   Section
 1. Melkishi Tesfaye ----------------- UDR/0078/13 ---------- 1
