@@ -18,6 +18,7 @@ The admin (in our case the owner of the car sales) with roles:
 *	Logging in to the system
 * Registering, removing and updating employees’ information 
 *	Registering cars ,and removing them when sold
+
 Employee user with roles:
 *	Sign up to the system inputting their information and unique code generated when the admin registers them
 *	Logging into the system 
