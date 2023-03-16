@@ -32,4 +32,3 @@ To sum up so what does our project provides:
 3. It enables the admin to easily control the employee sells. 
 4. It provides full sells information for the admin about their shop.
 
-
