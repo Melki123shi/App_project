@@ -30,5 +30,5 @@ Once the employee has signed up the employee can view list of car to be sold wit
 1. It calculates profit for a single car as well as the whole sell in every month and every year
 2. It enables the admin to register employees.
 3. It enables the admin to easily control the employee sells. 
-4. It provides full sells information for the admin about their shop
+4. It provides full sells information for the admin about their shop.
 
