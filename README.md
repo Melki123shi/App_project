@@ -33,7 +33,7 @@ Once the employee has signed up the employee can view list of car to be sold wit
 4. It provides full sells information for the admin about their shop.
 
 
-### Features added with explanation
+### Features added
 * employees can send comment to the shop manager. If the employee feels like the comments are wrong the employee can remove, and edit the comment when ever the           employee likes.
 * tracking credit given for customers. When the customer pays all his/her credit the credit will be removed. And if the customer can pay through time the credit gets     updated each time.
 
