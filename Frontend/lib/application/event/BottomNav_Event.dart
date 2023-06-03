@@ -1,0 +1,1 @@
+enum BottomNavigationEvent { home,mysolds, creditrequest, setting }
