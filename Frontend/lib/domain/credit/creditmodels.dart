@@ -48,6 +48,5 @@ class Credit extends Equatable {
       };
 
   @override
-  // TODO: implement props
   List<Object?> get props => [id,status,takenDate , paidDate, remainingAmount];
 }
